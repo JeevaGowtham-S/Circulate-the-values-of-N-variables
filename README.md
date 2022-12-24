@@ -27,6 +27,6 @@ def circulate():
 ```
 
 ## Output:
-![output](/image/circu.png)
-
+![expected](/image/expected.png)
+![got](/image/got.png)
 ## Result:
