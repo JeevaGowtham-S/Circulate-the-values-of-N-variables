@@ -6,14 +6,18 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Import def circulate
 ### Step 2: 
+Prepare the lists from each linear equations and assign in np.array() 
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
 
 ### Step 5: 
+Add coding to input value
 ### Step 6: 
+Print he coding to get answer
 ## Program:
 ```
 #Program to circulate N values.
@@ -30,3 +34,4 @@ def circulate():
 ![expected](/image/expected.png)
 ![got](/image/got.png)
 ## Result:
+Thus the python program to circuate the n variables using funtion concept is obtained.
