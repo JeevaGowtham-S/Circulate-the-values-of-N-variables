@@ -17,7 +17,7 @@ Using the slicing concept rotate the list
 ### Step 5: 
 Add coding to input value
 ### Step 6: 
-Print he coding to get answer
+Print the coding to get answer
 ## Program:
 ```
 #Program to circulate N values.
